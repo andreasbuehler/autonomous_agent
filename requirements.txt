@@ -3,5 +3,5 @@ Pillow==6.0.0
 eventlet==0.25.0
 Flask==1.0.3
 keras==2.2.4
-numpy==1.16.4
+numpy==1.22.0
 gevent_socketio==0.3.6
